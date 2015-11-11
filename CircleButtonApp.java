@@ -7,7 +7,7 @@ import java.awt.*;
 public class CircleButtonApp extends JFrame{
 
     //Reference to the frame we will use
-    static CircleButtonApp appFrame;
+    // static CircleButtonApp appFrame;
 
     //constructor
     public CircleButtonApp(){
