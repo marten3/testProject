@@ -15,6 +15,7 @@ public class CircleButtonApp extends JFrame{
         setPreferredSize(new Dimension(500,500));
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
+        add(new ButtonPanel());
         pack();
         setVisible(true);
     }
